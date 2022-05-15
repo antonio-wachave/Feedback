@@ -22,6 +22,7 @@ export function FeedbackTypeStage({ onFeedbackTypeChanged }: FeedbacktypeStagePr
               onClick={() => onFeedbackTypeChanged(key as FeedbackType)}
               type="button">
               <img src={value.image.source} alt={value.image.alt} />
+              {value.title}
             </button>
           )
         })}
