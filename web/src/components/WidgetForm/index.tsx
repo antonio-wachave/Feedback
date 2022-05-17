@@ -64,7 +64,7 @@ export function WidgetForm() {
       )
       }
       <footer className="text-xs text-natural-400">
-        Feito com ♥ pela  <a className="underline underline-offset-2" href="https://rocketseat.com.br" target="_blank" rel="noopener noreferrer">Rocketseat</a>
+        Feito com ♥ pelo  <a className="underline underline-offset-2" href="https://github.com/antonio-wachave/" target="_blank" rel="noopener noreferrer">Antonio Wachave</a>
       </footer>
     </div>
   );
