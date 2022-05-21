@@ -3,6 +3,9 @@ const { borderRadius } = require('tailwindcss/defaultTheme');
 module.exports = {
   content: ["./src/**/*.tsx"],
   theme: {
+    fontFamily: {
+      'Display':['inter']
+    },
     extend: {
       colors: {
         brand: {
