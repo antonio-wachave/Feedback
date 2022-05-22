@@ -6,6 +6,7 @@ module.exports = {
     fontFamily: {
       'Display':['inter']
     },
+    darkMode: 'class',
     extend: {
       colors: {
         brand: {
